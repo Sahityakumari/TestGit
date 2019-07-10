@@ -1,0 +1,13 @@
+C:\Users\Padma\Downloads\CSharpCommonLibrary\bin\Debug\CSharpComLibrary.dll
+C:\Users\Padma\Downloads\CSharpCommonLibrary\bin\Debug\CSharpComLibrary.pdb
+C:\Users\Padma\Downloads\CSharpCommonLibrary\obj\Debug\CSharpComLibrary.dll
+C:\Users\Padma\Downloads\CSharpCommonLibrary\obj\Debug\CSharpComLibrary.pdb
+C:\Users\Padma\Downloads\CSharpCommonLibrary\obj\Debug\CSharpComLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Padma\Downloads\CSharpCommonLibrary\bin\Debug\itextsharp.dll
+C:\Users\Padma\Downloads\CSharpCommonLibrary\bin\Debug\itextsharp.xml
+D:\Padma\Kofax Projects\CSharpCommonLibrary\obj\Debug\CSharpComLibrary.dll
+D:\Padma\Kofax Projects\CSharpCommonLibrary\bin\Debug\CSharpComLibrary.dll
+D:\Padma\Kofax Projects\CSharpCommonLibrary\bin\Debug\CSharpComLibrary.pdb
+D:\Padma\Kofax Projects\CSharpCommonLibrary\bin\Debug\itextsharp.dll
+D:\Padma\Kofax Projects\CSharpCommonLibrary\bin\Debug\itextsharp.xml
+D:\Padma\Kofax Projects\CSharpCommonLibrary\obj\Debug\CSharpComLibrary.pdb

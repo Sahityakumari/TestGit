@@ -1,0 +1,12 @@
+D:\Padma\Kofax Projects\CSharpCommonLibrary\bin\Debug\CSharpComLibrary.dll
+D:\Padma\Kofax Projects\CSharpCommonLibrary\bin\Debug\CSharpComLibrary.pdb
+D:\Padma\Kofax Projects\CSharpCommonLibrary\bin\Debug\itextsharp.dll
+D:\Padma\Kofax Projects\CSharpCommonLibrary\bin\Debug\itextsharp.xml
+D:\Padma\Kofax Projects\CSharpCommonLibrary\obj\Debug\CSharpComLibrary.dll
+D:\Padma\Kofax Projects\CSharpCommonLibrary\obj\Debug\CSharpComLibrary.pdb
+D:\Padma\Kofax Projects\CSharpCommonLibraryV2\bin\Debug\CSharpComLibrary.dll
+D:\Padma\Kofax Projects\CSharpCommonLibraryV2\bin\Debug\CSharpComLibrary.pdb
+D:\Padma\Kofax Projects\CSharpCommonLibraryV2\bin\Debug\itextsharp.dll
+D:\Padma\Kofax Projects\CSharpCommonLibraryV2\bin\Debug\itextsharp.xml
+D:\Padma\Kofax Projects\CSharpCommonLibraryV2\obj\Debug\CSharpComLibrary.dll
+D:\Padma\Kofax Projects\CSharpCommonLibraryV2\obj\Debug\CSharpComLibrary.pdb

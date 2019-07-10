@@ -1,0 +1,14 @@
+D:\Padma\Kofax Projects\CSharpCommonLibrary\bin\Release\CSharpComLibrary.dll
+D:\Padma\Kofax Projects\CSharpCommonLibrary\bin\Release\CSharpComLibrary.pdb
+D:\Padma\Kofax Projects\CSharpCommonLibrary\bin\Release\itextsharp.dll
+D:\Padma\Kofax Projects\CSharpCommonLibrary\bin\Release\itextsharp.xml
+D:\Padma\Kofax Projects\CSharpCommonLibrary\obj\Release\CSharpComLibraryV2.csprojResolveAssemblyReference.cache
+D:\Padma\Kofax Projects\CSharpCommonLibrary\obj\Release\CSharpComLibrary.dll
+D:\Padma\Kofax Projects\CSharpCommonLibrary\obj\Release\CSharpComLibrary.pdb
+D:\Padma\Kofax Projects\CSharpCommonLibraryV2\bin\Release\CSharpComLibrary.dll
+D:\Padma\Kofax Projects\CSharpCommonLibraryV2\bin\Release\CSharpComLibrary.pdb
+D:\Padma\Kofax Projects\CSharpCommonLibraryV2\bin\Release\itextsharp.dll
+D:\Padma\Kofax Projects\CSharpCommonLibraryV2\bin\Release\itextsharp.xml
+D:\Padma\Kofax Projects\CSharpCommonLibraryV2\obj\Release\CSharpComLibraryV2.csprojResolveAssemblyReference.cache
+D:\Padma\Kofax Projects\CSharpCommonLibraryV2\obj\Release\CSharpComLibrary.dll
+D:\Padma\Kofax Projects\CSharpCommonLibraryV2\obj\Release\CSharpComLibrary.pdb
